@@ -1,2 +1,2 @@
-# Fron-tend
+# Front-end
 Front-end projects
